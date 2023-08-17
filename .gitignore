@@ -5,3 +5,6 @@ ThisIsCpp/FunctionTemplate/x64/
 ThisIsCpp/FunctionDefault/x64/
 ThisIsCpp/class/x64/
 ThisIsCpp/AutoFor/x64/
+ThisIsCpp/OperatorOverloading/x64/
+ThisIsCpp/Inheritance/x64/
+ThisIsCpp/CopyConstructor/x64/

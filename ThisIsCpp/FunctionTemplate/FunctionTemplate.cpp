@@ -30,6 +30,7 @@ void TestFunc(int nParam)
 }
 int main()
 {
+	int nResult = Add(3, 4);
 	std::cout << Add(3, 4) << std::endl;
 	std::cout << Add(3.3, 4.5) << std::endl;
 
